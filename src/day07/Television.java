@@ -14,11 +14,9 @@ public Television(int channel, int volume, boolean onoff){
 }
 
 public void print() {
-		System.out.println("Ã¤³ÎÀº " + channel + "ÀÌ°í º¼·ıÀº " + volume +"ÀÔ´Ï´Ù.");
+		System.out.println("ì±„ë„ì€ " + channel + "ì´ê³  ë³¼ë¥¨ì€ " + volume +"ì…ë‹ˆë‹¤.");
 	}
 	public static void main(String[] args) {
 		
-
 	}
-
 }
